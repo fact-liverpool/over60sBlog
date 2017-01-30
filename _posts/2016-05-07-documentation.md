@@ -11,6 +11,12 @@ Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is importa
 Watch my video on instlallation
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHt3twW5_fI" frameborder="0" allowfullscreen></iframe>
+
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">An old picture with Nancy and Ronald Reagan. <a href="https://t.co/8kvQ1PzPAf">pic.twitter.com/8kvQ1PzPAf</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/818586286034485250">9 January 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## How to delete old **gh-pages** branch?
 After forking the repository, click on **branches**.
 
