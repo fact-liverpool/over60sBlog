@@ -1,3 +1,38 @@
+
+.video-container {
+	position: absolute;
+}
+.video-container {
+	top:0%;
+	left:0%;
+	height:100%;
+	width:100%;
+	overflow: hidden;
+}
+
+
+
+#video-back {
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  padding: 0 0 0 0;
+  z-index:-1;
+}
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+
+video.fillWidth {
+    width: 100%;
+}
+
 img {
     max-width: 100%;
 }
@@ -12,6 +47,13 @@ img {
 .mt10 {
     margin-top: 10px;
 }
+.navbar{
+  z-index: 0;
+}
+.header-color{
+  background-color: rgba(255, 255, 255, 0.4)
+}
+
 .navbar-brand {
     font-weight: 900;
     font-size: 1.85em;
@@ -76,8 +118,6 @@ footer {
 
 
 .pack {
-
-
     display: -webkit-inline-flex;
     display: -ms-inline-flexbox;
     display: inline-flex;
