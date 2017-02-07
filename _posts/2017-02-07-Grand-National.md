@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grand National
-img: image-5.png
+img: grand-nation-feature.jpg
 ---
 
 
@@ -43,4 +43,3 @@ This theme is responsive.
 
 ![webjeda cards responsive jekyll theme]({{site.baseurl}}/images/webjeda-cards-responsive-jekyll-theme-2.png)
 {: .text-center}
-
