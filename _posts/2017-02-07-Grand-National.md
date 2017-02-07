@@ -19,7 +19,8 @@ Watch my video on instlallation
 
 ## How to delete old **gh-pages** branch?
 After forking the repository, click on **branches**.
-![delete gh-pages branch](/images/posts/image-1.png)
+![](/images/posts/Grand-National/The Duke 1836.jpg)
+<img  src="/images/posts/Grand-National/The Duke 1836.jpg" width="200px">
 
 ![delete gh-pages branch]({{site.baseurl}}/images/delete-github-branch.png)
 
