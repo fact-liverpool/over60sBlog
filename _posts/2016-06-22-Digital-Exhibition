@@ -1,0 +1,82 @@
+---
+layout: post
+title: Digital Exhibition
+img: Copy of IMG_1676.JPG
+---
+
+# Digital Exhibition
+
+On Wednesday 22nd June, Alan and I were invited to an exhibition at FACT, or should I sat Mr Hartley and myself (see our Tagging Communities project to get that joke!) 
+
+This exhibition gave us an insight into new and not so new digital design.
+
+![delete gh-pages branch](/images/posts/featured/hughalan2.JPG)
+
+2 or possibly 3 particular items caught my eye, firstly the typewriters. I, myself used something like them over 40 years ago. I was not very good mind, no change there.
+
+![delete gh-pages branch](/images/posts/featured/typewriter.JPG)
+
+Secondly ‘The Digital travelling suitcases’ which were first used and designed for people at a housing estate in London. The suitcase, consisted of a hand phone connected to a recording device with two or three cubed blocks, these when inserted would hold and store information for the tenant or staff of the social housing building and for people in the local area. 
+
+![delete gh-pages branch](/images/posts/featured/hughalan.JPG)
+
+The final item ‘Digital Recordings’ from your mobile phone. After picking music on your phone, you pick up a disc, only as big as the tip on the end of a snooker cue, slide is slowly on the back of the phone and this disc will hold and download whatever you are playing. Fascinating. It is a new way at looking at a mix tape! 
+
+There is also a wristband that will hold about seven of these discs allowing you to carry them with you or over to Mr Hartley. 
+
+What Alan wanted to know was what would happen would these prototypes, would they ever become real items or would technology already be out of date by the time the product comes out? The group are exploring what they can make with 3D printing at the moment and this is our biggest question whilst exploring topic, what to make, who for and why? 
+
+
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+
+Watch my video on instlallation
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHt3twW5_fI" frameborder="0" allowfullscreen></iframe>
+
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">An old picture with Nancy and Ronald Reagan. <a href="https://t.co/8kvQ1PzPAf">pic.twitter.com/8kvQ1PzPAf</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/818586286034485250">9 January 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## How to delete old **gh-pages** branch?
+After forking the repository, click on **branches**.
+![delete gh-pages branch](/images/posts/image-1.png)  
+
+![delete gh-pages branch]({{site.baseurl}}/images/delete-github-branch.png)
+
+Delete ``gh-pages`` branch.
+![delete gh-pages branch]({{site.baseurl}}/images/delete-github-branch-2.png)
+
+You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
+
+![create gh-pages branch]({{site.baseurl}}/images/create-gh-pages-branch.JPG)
+
+Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
+
+This process will host the theme as a **Project Page**. You can also download the files for local development.
+
+Default theme will look like this
+
+![webjeda cards jekyll theme]({{site.baseurl}}/images/webjeda-cards-jekyll-theme-1.png)
+
+This theme is responsive.
+
+![webjeda cards responsive jekyll theme]({{site.baseurl}}/images/webjeda-cards-responsive-jekyll-theme-2.png)
+{: .text-center}
+
+
+# Development
+Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
+
+
+# License
+MIT License
+
+# Changelog
+<pre>
+version 1.0 - SEO, disqus, page-speed enhancement, compressed html.
+
+version 0.9 - Sidebar default image and other minor improvements.  
+
+version 0.8 - Bootstrap based cards layout theme.
+</pre>
