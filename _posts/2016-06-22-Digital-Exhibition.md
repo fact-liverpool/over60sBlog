@@ -10,15 +10,15 @@ On Wednesday 22nd June, Alan and I were invited to an exhibition at FACT, or sho
 
 This exhibition gave us an insight into new and not so new digital design.
 
-![delete gh-pages branch](/images/posts/featured/hughalan2.JPG)
+![](/images/posts/featured/hughalan2.JPG)
 
 2 or possibly 3 particular items caught my eye, firstly the typewriters. I, myself used something like them over 40 years ago. I was not very good mind, no change there.
 
-![delete gh-pages branch](/images/posts/featured/typewriter.JPG)
+![](/images/posts/featured/typewriter.JPG)
 
 Secondly ‘The Digital travelling suitcases’ which were first used and designed for people at a housing estate in London. The suitcase, consisted of a hand phone connected to a recording device with two or three cubed blocks, these when inserted would hold and store information for the tenant or staff of the social housing building and for people in the local area. 
 
-![delete gh-pages branch](/images/posts/featured/hughalan.JPG)
+![](/images/posts/featured/hughalan.JPG)
 
 The final item ‘Digital Recordings’ from your mobile phone. After picking music on your phone, you pick up a disc, only as big as the tip on the end of a snooker cue, slide is slowly on the back of the phone and this disc will hold and download whatever you are playing. Fascinating. It is a new way at looking at a mix tape! 
 
