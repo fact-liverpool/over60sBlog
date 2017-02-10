@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Art and Design Fab Lab Liverpool University Review
-img: fablabgroup.jpg
+img: fablabgroup.JPG
 ---
 # Art and Design Fab Lab Liverpool University Review
 ![delete gh-pages branch](/images/featured/ifablablol.jpg)
